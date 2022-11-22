@@ -16,7 +16,12 @@ Hosted Demo: [semesterproject2-angelvik](https://semesterproject2-angelvik.netli
 
 
 ## Design
-![adobe-color-wheel](/resources/images/color-wheel.png)
+Searched for a Finn.no image to find their color.  
+
+![finn-color](resources/images/finn.png)  
+
+Used Adobe-Wheel to add a secondary and tertiary color.
+![color-wheel](resources/images/color-wheel.png)
 
 ---
 ## Tools
