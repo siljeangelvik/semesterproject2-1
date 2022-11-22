@@ -1,3 +1,9 @@
+# Editor
+.DS_Store
+.github/
+.idea/
+resources/.DS_Store
+
 # Logs
 logs
 *.log
